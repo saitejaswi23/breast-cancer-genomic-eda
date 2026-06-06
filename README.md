@@ -1,18 +1,18 @@
-# 🧬 Breast Cancer Genomic EDA
+# Breast Cancer Genomic EDA
 
 Exploratory Data Analysis on the Wisconsin Breast Cancer dataset using Python.
 
-## 📊 Overview
+## Overview
 - **699 patient samples** analyzed
 - **10 cellular features** explored
 - Identified key markers that distinguish benign vs malignant tumors
 
-## 🔍 Key Findings
+## Key Findings
 - Bare Nuclei, Cell Shape, and Cell Size are the **top 3 malignancy indicators** (correlation > 0.81)
 - Malignant tumors show consistently higher values across all features
 - Dataset is **65.5% Benign** and **34.5% Malignant**
 
-## 📈 Visualizations
+##  Visualizations
 
 ![Correlation Heatmap](correlation_heatmap.png)
 
@@ -29,7 +29,7 @@ Exploratory Data Analysis on the Wisconsin Breast Cancer dataset using Python.
 | Box Plots | Feature distributions by class |
 | Pairplot | Multi-feature comparison |
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
